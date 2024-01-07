@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rakesh-Patel-cloud
-- 👀 I’m interested in Techologies like Machine Learning, Deeplearning, DataScience.
-- 🌱 I’m currently learning DataScience.  
+- 👀 I’m interested in Techologies like DevOps, Data Analyst, Deeplearning, DataScience.
+- 🌱 I’m currently working on DevOps.  
 - 💞️ I’m looking to collaborate on Github.
 - 📫 You can reach me through Github.
 
